@@ -1,0 +1,62 @@
+{
+	"header": {
+		"name": "Tim Plummer",
+		"title": "Computer Scientist"
+	},
+	"sections": [
+		{
+			"header": "Experience",
+			"list": [
+				{
+					"company": "Amazon Inc.",
+					"title": "Software Engineer I",
+					"time": "Jun 2013 - Aug 2014",
+					"list": [
+						"Java software development",
+						"Worked with big stuff"
+					]
+				},
+				{
+					"company": "Applied Technical Systems",
+					"title": "Programming Intern",
+					"time": "Jun 2007 - Jul 2009",
+					"list": [
+						"Java and C# dev",
+						"SQL query optimization"
+					]
+				}
+			]
+		},
+		{
+			"header": "Education",
+			"list": [
+				{
+					"institution": "University of Washington",
+					"title": "Bachelor of Science in Computer Science",
+					"time": "Aug 2009 - Jun 2013"
+				}
+			]
+		},
+		{
+			"header": "Skills",
+			"list": [
+				{"name": "Javascript", "level": 5 },
+				{"name": "OpenGL", "level": 4 },
+				{"name": "3D Modeling", "level": 3 },
+				{"name": "Three.js", "level": 5 },
+				{"name": "Git, SVN", "level": 5 },
+				{"name": "Unity", "level": 3 },
+				{"name": "Pico-8", "level": 4 },
+				{"name": "Java, C++, Lua, C#, SQL, etc", "level": 5 }
+			]
+		},
+		{
+			"header": "Cool Stuff",
+			"list": [
+				"https://github.com/Objelisks/LSystemBot",
+				"https://github.com/Objelisks/gemsquad",
+				"https://github.com/Objelisks/rocks"
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+Tim Plummer
+Computer Scientist
+
+
+Experience
+
+Amazon, Inc.
+Software Engineer I, Jun 2013 - Aug 2014, Seattle, WA
+Mostly Java development on large systems.
+Wrote code that handled millions of transations per day.
+Lead projects and independently solved problems.
+
+Applied Technical Systems
+Programming Internship, Jun 2007 - Jul 2009, Silverdale, WA
+Developed skills using C# and SQL.
+Worked independently on projects under programming leads.
+
+
+Education
+
+University of Washington
+Bachelor of Science in Computer Science, Aug 2009 - Jun 2013
+Classes in Graphics, Networking, Security
+3.7 GPA with honors
+
+
+Skills
+
+Languages: C++/C#/Java/Javascript/Lua/GLSL and more!
+Hobbyist game developer (Javascript, Pico-8, Unity)
+Experienced with 3D technologies (Three.js, OpenGL, Blender)
+Good at Dwarf Fortress
+
+
+Projects
+
+See Github: https://github.com/Objelisks
